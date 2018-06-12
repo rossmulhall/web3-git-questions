@@ -1,10 +1,4 @@
-# web3-git-questions
-
-Question 1:
-Argue 2 advantages of Git DVCS over Dropbox
-
-Question 2:
-Compare CLI vs. GUI clients for working with Git
-
-Question 3:
-Review 3 different GUI Git clients
+#Lab Sheet 3
+This file contains information pertaining to updates made to the other files.
+---
+- added version 1 of question1.html
